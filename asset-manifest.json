@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ShortestPathFinder/static/css/main.187a1130.css",
+    "main.js": "/ShortestPathFinder/static/js/main.bb219799.js",
+    "static/media/logo.png": "/ShortestPathFinder/static/media/logo.96c8049d9abe9bc1f1bb.png",
+    "index.html": "/ShortestPathFinder/index.html",
+    "main.187a1130.css.map": "/ShortestPathFinder/static/css/main.187a1130.css.map",
+    "main.bb219799.js.map": "/ShortestPathFinder/static/js/main.bb219799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.187a1130.css",
+    "static/js/main.bb219799.js"
+  ]
+}
